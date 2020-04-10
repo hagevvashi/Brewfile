@@ -60,6 +60,7 @@ brew mpfr
 brew ncurses
 brew nettle
 brew ninja
+brew node
 brew node-build
 brew nodenv
 brew oniguruma
@@ -90,6 +91,7 @@ brew utf8proc
 brew watch
 brew wget
 brew xz
+brew yarn
 brew zsh
 
 tap homebrew/cask
