@@ -5,6 +5,7 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew avrdude
+brew bison
 brew boost
 brew cairo
 brew circleci
@@ -43,6 +44,7 @@ brew libidn2
 brew libmpc
 brew libpng
 brew libspiro
+brew libssh2
 brew libtasn1
 brew libtiff
 brew libtool
@@ -72,17 +74,19 @@ brew pict
 brew pixman
 brew pkg-config
 brew python
-brew python@2
+brew python@3.8
 brew rbenv
 brew rbenv-communal-gems
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
+brew rust
 brew sqlite
 brew texinfo
 brew tmux
 brew tree
 brew unbound
+brew utf8proc
 brew watch
 brew wget
 brew xz
@@ -90,12 +94,19 @@ brew zsh
 
 tap homebrew/cask
 cask alfred
+cask clipy
 cask coteditor
+cask firefox
 cask google-japanese-ime
+cask iterm2
 cask karabiner-elements
+cask keepassx
 cask mapture
+cask microsoft-teams
 cask postman
+cask slack
 cask visual-studio-code
+cask xmind
 
 tap argon/mas
 
@@ -126,11 +137,5 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
-# Other Cask applications
-cask clipy
-cask firefox
-cask iterm2
-cask keepassx
-cask microsoft-teams
-cask slack
-cask xmind
+# Other Homebrew packages
+brew python@2
