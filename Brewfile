@@ -58,7 +58,6 @@ brew mpfr
 brew ncurses
 brew nettle
 brew ninja
-brew node
 brew node-build
 brew nodenv
 brew oniguruma
@@ -135,17 +134,3 @@ cask keepassx
 cask microsoft-teams
 cask slack
 cask xmind
-
-# App Store applications
-appstore 1180531112 DeskApp for YouTube (1.3)
-appstore 682658836 GarageBand (10.3.4)
-appstore 408981434 iMovie (10.1.14)
-appstore 409183694 Keynote (9.2.1)
-appstore 539883307 LINE (5.21.2)
-appstore 1295203466 Microsoft Remote Desktop (10.3.7)
-appstore 1440590513 NanoBrowser (1.4.2)
-appstore 409203825 Numbers (6.2.1)
-appstore 409201541 Pages (8.2.1)
-appstore 425424353 The Unarchiver (4.1.0)
-appstore 585829637 Todoist (7.2.3)
-appstore 497799835 Xcode (11.3)
