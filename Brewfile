@@ -60,7 +60,6 @@ brew mpfr
 brew ncurses
 brew nettle
 brew ninja
-brew node
 brew node-build
 brew nodenv
 brew oniguruma
@@ -94,6 +93,9 @@ brew xz
 brew yarn
 brew zsh
 
+tap homebrew/cask-versions
+cask google-chrome-canary
+
 tap homebrew/cask
 cask alfred
 cask clipy
@@ -108,6 +110,7 @@ cask microsoft-teams
 cask postman
 cask slack
 cask visual-studio-code
+cask vivaldi
 cask xmind
 
 tap argon/mas
