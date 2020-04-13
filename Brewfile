@@ -9,6 +9,7 @@ brew bison
 brew boost
 brew cairo
 brew circleci
+brew cmake
 brew coreutils
 brew direnv
 brew emacs
@@ -57,6 +58,7 @@ brew lzo
 brew mas
 brew meson
 brew mpfr
+brew mysql
 brew ncurses
 brew nettle
 brew ninja
@@ -73,6 +75,7 @@ brew peco
 brew pict
 brew pixman
 brew pkg-config
+brew protobuf
 brew python
 brew python@3.8
 brew rbenv
@@ -103,10 +106,8 @@ cask coteditor
 cask firefox
 cask google-japanese-ime
 cask iterm2
-cask karabiner-elements
 cask keepassx
 cask mapture
-cask microsoft-teams
 cask postman
 cask slack
 cask visual-studio-code
