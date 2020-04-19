@@ -62,6 +62,7 @@ brew mysql
 brew ncurses
 brew nettle
 brew ninja
+brew node
 brew node-build
 brew nodenv
 brew oniguruma
@@ -104,10 +105,12 @@ cask alfred
 cask clipy
 cask coteditor
 cask firefox
+cask google-chrome
 cask google-japanese-ime
 cask iterm2
 cask keepassx
 cask mapture
+cask microsoft-teams
 cask postman
 cask slack
 cask visual-studio-code
