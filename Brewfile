@@ -142,6 +142,3 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
-
-# Other Homebrew packages
-brew python@2
