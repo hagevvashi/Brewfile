@@ -7,6 +7,7 @@ brew automake
 brew avrdude
 brew bison
 brew boost
+brew bootloadhid
 brew cairo
 brew circleci
 brew cmake
@@ -120,9 +121,6 @@ cask xmind
 tap argon/mas
 
 tap brona/iproute2mac
-
-## Direct install
-brew bootloadhid --HEAD
 
 tap heroku/brew
 brew heroku
