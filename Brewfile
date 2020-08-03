@@ -78,7 +78,6 @@ brew pict
 brew pixman
 brew pkg-config
 brew protobuf
-brew python
 brew python@3.8
 brew rbenv
 brew rbenv-communal-gems
@@ -143,3 +142,15 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
+
+# Other Cask applications
+cask adoptopenjdk12
+
+# App Store applications
+appstore 682658836 GarageBand (10.3.3)
+appstore 408981434 iMovie (10.1.13)
+appstore 409183694 Keynote (9.2)
+appstore 1295203466 Microsoft Remote Desktop (10.3.10)
+appstore 409203825 Numbers (6.2)
+appstore 409201541 Pages (8.2)
+appstore 497799835 Xcode (11.5)
