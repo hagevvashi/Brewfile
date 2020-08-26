@@ -117,6 +117,9 @@ cask visual-studio-code
 cask vivaldi
 cask xmind
 
+tap adoptopenjdk/openjdk
+cask adoptopenjdk12
+
 tap argon/mas
 
 tap brona/iproute2mac
@@ -128,6 +131,7 @@ brew heroku-node
 tap mongodb/brew
 brew mongodb-community
 brew mongodb-community-shell
+brew mongodb-database-tools
 
 tap osx-cross/arm
 
@@ -142,6 +146,3 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
-
-# Other Cask applications
-cask adoptopenjdk12
