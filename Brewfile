@@ -203,7 +203,6 @@ cask keepassx
 cask kindle
 cask mapture
 cask microsoft-teams
-cask osxfuse
 cask postman
 cask rectangle
 cask slack
