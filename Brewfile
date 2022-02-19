@@ -26,7 +26,6 @@ brew dav1d
 brew dialog
 brew direnv
 brew emacs
-brew ext4fuse
 brew ffmpeg
 brew flac
 brew fontconfig
